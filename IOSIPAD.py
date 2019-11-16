@@ -6,7 +6,7 @@ import json, requests, LineService
 nama = 'PH-13'
 Headers = {
         'User-Agent': "Line/8.9.1",
-        'X-Line-Application': "CHROMEOS\t2.1.5\t"+nama+"\t11.12.5",
+        'X-Line-Application': "IOSIPAD\t7.18.0\tiPhoneOS\t11.12.1",
         #'X-Line-Application': "WIN10\t8.3.2\t"+nama+"\t10.0.0",
         "x-lal": "ja-US_US",
         "x-lal": "ja-TH_TH",
